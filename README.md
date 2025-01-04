@@ -1,3 +1,8 @@
+# Assignment for the Web Based Technologies course
+
+This is an application that I made for the Web Based Technologies course in the spring of 2024.
+The application was made using React and it uses TVMaze API from which it fetches data about TV shows and displays the data to the user.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
